@@ -2,7 +2,7 @@ title: SIGCHI Document Formats
 description: Everything you need to know to publish using LaTeX or Word and then some.
 google_analytics: UA-896807-8
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
