@@ -6,9 +6,9 @@ The originial repository is located at  [SIGCHI Github repository](https://githu
 For details on how to submit, visit [auto-ui.org](http://www.auto-ui.org).
 
 ## LaTeX ##
-+ [LaTeX Proceedings Format](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-latex-proceedings.tar.gz?raw=true)
-+ [LaTeX Extended Abstract Format](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-latex-extended-abstracts.tar.gz?raw=true)
++ LaTeX Proceedings Format ([tar.gz](https://github.com/auto-ui/Document-Formats/blob/master/Builds/latex-proceedings.tar.gz?raw=true), [zip](https://github.com/auto-ui/Document-Formats/blob/master/Builds/latex-proceedings.zip?raw=true))
++ LaTeX Extended Abstract Format([tar.gz](https://github.com/auto-ui/Document-Formats/blob/master/Builds/latex-extended-abstracts.tar.gz?raw=true), [zip](https://github.com/auto-ui/Document-Formats/blob/master/Builds/latex-extended-abstracts.zip?raw=true))
 
 ## Word ##
-+ [Word Proceedings Format](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-word-proceedings.zip?raw=true)
-+ [Word Extended Abstract Format](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-word-extended-abstracts.zip?raw=true)
++ [Word Proceedings Format (zip)](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-word-proceedings.zip?raw=true)
++ [Word Extended Abstract Format (zip)](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-word-extended-abstracts.zip?raw=true)
