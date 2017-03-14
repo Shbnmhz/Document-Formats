@@ -10,5 +10,5 @@ For details on how to submit, visit [auto-ui.org](http://www.auto-ui.org).
 + LaTeX Extended Abstract Format([tar.gz](https://github.com/auto-ui/Document-Formats/blob/master/Builds/latex-extended-abstracts.tar.gz?raw=true), [zip](https://github.com/auto-ui/Document-Formats/blob/master/Builds/latex-extended-abstracts.zip?raw=true))
 
 ## Word ##
-+ [Word Proceedings Format (zip)](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-word-proceedings.zip?raw=true)
-+ [Word Extended Abstract Format (zip)](https://github.com/auto-ui/Document-Formats/blob/master/Builds/sigchi-word-extended-abstracts.zip?raw=true)
++ [Word Proceedings Format (zip)](https://github.com/auto-ui/Document-Formats/blob/master/Builds/word-proceedings.zip?raw=true)
++ [Word Extended Abstract Format (zip)](https://github.com/auto-ui/Document-Formats/blob/master/Builds/word-extended-abstracts.zip?raw=true)
