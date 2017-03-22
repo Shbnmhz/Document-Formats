@@ -1,5 +1,5 @@
-# Current AutoUI Templates #
-This repository is a fork of SIGCHI templates for Word and LaTeX to be used for the Automotive User Interfaces conference (AutoUI).
+# Current AutomotiveUI Templates #
+This repository is a fork of SIGCHI templates for Word and LaTeX to be used for the Automotive User Interfaces conference (AutomotiveUI).
 Full details are listed in the [Github repository](https://github.com/auto-ui/Document-Formats). 
 The originial repository is located at  [SIGCHI Github repository](https://github.com/sigchi/Document-Formats).
 
